@@ -18,6 +18,20 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
+## Makaleler
+[1- Part-0 Temeller(Proje kurulumu)](https://medium.com/@yasinkbas/django-ile-rest-api-oluşturma-part-0-140db27a91cb)
+
+[2- Part-1 Rest framework(genel olarak projeye dahil edilimi ve kullanımı)](https://medium.com/@yasinkbas/django-ile-rest-api-oluşturma-part-1-19d2e6f4f7e2)
+
+[3- Part-2 Projeyi Herokuya Deploy Etmek](https://medium.com/@yasinkbas/django-ile-rest-api-oluşturma-part-2-heroku-deploy-a38724075a67)
+
+[4- Part-3 Rest framework Güvenlik]()
+
+[5- Part-4 Viewsets mix (belli değil)]()
+
+[6- Part-5 Api ile arama gerçekleştirmek]()
+
+
 ## Ders kodlari
 [1- Part-0 Temeller(Proje kurulumu)](https://github.com/yasinkbas/movieland/tree/9028353de397e60d4f8fc54f330372275b9ca2ea)
 
