@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # own apps
     'movie',
     # third-party apps
+    'rest_framework',
 
 ]
 
