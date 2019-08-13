@@ -1,21 +1,22 @@
 # Movieland
-Medium hesabımdan Django rest framework için yazdığım eğitimin kaynak kodudur. Proje Django2.2.4 | python 3.7 | rest_framework3.10 ile yazılmıştır.
+Medium hesabımdan Django rest framework için yazdığım eğitimin kaynak kodudur.<br>
+Proje Django2.2.4 | python 3.7 | rest_framework3.10 ile yazılmıştır.
 
 ### Yayınlanan Makaleler
 
-- [x] Part-0 Temeller(Proje kurulumu)
-- [x] Part-1 Rest framework(genel olarak projeye dahil edilimi ve kullanımı)
-- [x] Part-2 Projeyi Herokuya Deploy Etmek
-- [ ] Part-3 Rest framework Güvenlik
-- [ ] Part-4 Viewsets mix (belli değil)
-- [ ] Part-5 Api ile arama gerçekleştirmek
+- [x] Part-0 Temeller(Proje kurulumu) (12/08/2019)
+- [x] Part-1 Rest framework(genel olarak projeye dahil edilimi ve kullanımı) (12/08/2019)
+- [x] Part-2 Projeyi Herokuya Deploy Etmek (12/08/2019)
+- [ ] Part-3 Rest framework Güvenlik (25/08/2019)
+- [ ] Part-4 Viewsets mix (belki) (25/08/2019)
+- [ ] Part-5 Api üzerinden arama ile veri çekmek (1/09/2019)
 
 ## kurulum
-```bash
-virtualenv venv -p python3
-sourve venv/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
+```shell
+$ virtualenv venv -p python3
+$ sourve venv/bin/activate
+$ pip install -r requirements.txt
+$ python manage.py runserver
 ```
 
 ## Makaleler
@@ -29,7 +30,7 @@ python manage.py runserver
 
 [5- Part-4 Viewsets mix (belli değil)]()
 
-[6- Part-5 Api ile arama gerçekleştirmek]()
+[6- Part-5 Api üzerinden arama ile veri çekmek]()
 
 
 ## Ders kodlari
@@ -43,4 +44,4 @@ python manage.py runserver
 
 [5- Part-4 Viewsets mix (belli değil)]()
 
-[6- Part-5 Api ile arama gerçekleştirmek]()
+[6- Part-5 Api üzerinden arama ile veri çekmek]()
