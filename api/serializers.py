@@ -11,5 +11,5 @@ class MovieSerializer(serializers.HyperlinkedModelSerializer):
 class DirectorSerializer(serializers.ModelSerializer):
 
     class Meta:
-        model = models.Movie
+        model = models.Director
         fields = ('name',)
