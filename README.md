@@ -8,7 +8,7 @@ Proje Django2.2.4 | python 3.7 | rest_framework3.10 ile yazılmıştır.
 - [x] Part-1 Rest framework(rest-framework'un dahil edilimi ve kullanimi)
 - [x] Part-2 Projeyi Herokuya Deploy Etmek 
 - [x] Part-3 Rest framework Authorization ve Permission 
-- [ ] Part-4 Api üzerinden query ile veri çekmek 
+- [x] Part-4 Api üzerinden query ile veri çekmek 
 
 ## kurulum
 ```shell
@@ -25,9 +25,9 @@ $ python manage.py runserver
 
 [3- Part-2 Projeyi Herokuya Deploy Etmek](https://medium.com/@yasinkbas/django-ile-rest-api-oluşturma-part-2-heroku-deploy-a38724075a67)
 
-[4- Part-3 Rest framework Authorization ve Permission](https://github.com/yasinkbas/movieland/tree/7b7aa043f84e151a2373896f433bf6c25239da2f)
+[4- Part-3 Rest framework Authentication ve Permission](https://medium.com/@yasinkbas/django-ile-rest-api-oluşturma-part-3-authorization-ve-permission-46a1fa8c6803)
 
-[5- Part-4 Api üzerinden query ile veri çekmek ]()
+[5- Part-4 Api üzerinden query ile veri çekmek ](https://medium.com/@yasinkbas/django-ile-rest-api-oluşturma-part-4-api-üzerinden-sorgu-ile-veri-çekmek-98cd29d20119)
 
 
 ## Ders kodlari
@@ -37,6 +37,6 @@ $ python manage.py runserver
 
 [3- Part-2 Projeyi Herokuya Deploy Etmek](https://github.com/yasinkbas/movieland/tree/b964d7eefa6068128a495bdaee5289ba137cd7c5)
 
-[4- Part-3 Rest framework Authorization ve Permission](https://github.com/yasinkbas/movieland/tree/25b95e231760dd3ce99697c9e912021a02275260)
+[4- Part-3 Rest framework Authentication ve Permission](https://github.com/yasinkbas/movieland/tree/3bc72f737bfa3d7944dd96ab7e625ef107c89274)
 
 [5- Part-4 Api üzerinden query ile veri çekmek ]()
