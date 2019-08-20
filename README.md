@@ -37,6 +37,6 @@ $ python manage.py runserver
 
 [3- Part-2 Projeyi Herokuya Deploy Etmek](https://github.com/yasinkbas/movieland/tree/b964d7eefa6068128a495bdaee5289ba137cd7c5)
 
-[4- Part-3 Rest framework Authorization ve Permission]()
+[4- Part-3 Rest framework Authorization ve Permission](https://github.com/yasinkbas/movieland/tree/25b95e231760dd3ce99697c9e912021a02275260)
 
 [5- Part-4 Api üzerinden query ile veri çekmek ]()
